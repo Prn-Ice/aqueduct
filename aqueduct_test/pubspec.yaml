@@ -12,4 +12,6 @@ dependencies:
   test: ^1.3.0
   matcher: '>=0.12.3 <0.14.0'
   aqueduct:
-    path: ../aqueduct
+     git:
+      url: 'https://github.com/Prn-Ice/aqueduct.git'
+      path: aqueduct
